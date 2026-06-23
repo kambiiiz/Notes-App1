@@ -11,4 +11,3 @@ Simple and beautiful notes application.
 - SQLite
 - Provider
 ## License
-MIT
