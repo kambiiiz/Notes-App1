@@ -8,6 +8,6 @@ Simple and beautiful notes application.
 - Dark mode
 ## Tech Stack
 - Flutter
-- SQLite
+- 
 - Provider
 ## License
