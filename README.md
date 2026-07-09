@@ -1,6 +1,5 @@
 # Notes App
 Simple and beautiful notes application.
-## 
 - Rich text editing
 - Tags & folders
 - Search
