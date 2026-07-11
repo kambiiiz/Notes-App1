@@ -4,7 +4,7 @@ Simple and beautiful notes application.
 - Tags & folders
 - Search
 - Sync  devices
-- Dark mode
+- Dark 
 ## Tech Stack
 - Flutter
 - Provider
